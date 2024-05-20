@@ -151,3 +151,13 @@ Evaluation of your submission will be based on the following criteria.
    they explained?
 1. Did you separate any concerns in your application? Why or why not?
 1. Does your solution use appropriate data types for the problem as described?
+
+
+# Payroll System API
+
+## Setup Instructions
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
